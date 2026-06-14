@@ -1201,7 +1201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming-tileset_28
+      name: Corn2
       rect:
         serializedVersion: 2
         x: 64
@@ -1223,15 +1223,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming-tileset_29
+      name: Corn1
       rect:
         serializedVersion: 2
         x: 96
         y: 288
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1487,7 +1487,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming-tileset_41
+      name: Corn3
       rect:
         serializedVersion: 2
         x: 64
@@ -4030,6 +4030,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Corn1: 21300058
+      Corn2: 21300056
+      Corn3: 21300082
       farming-tileset_0: 21300000
       farming-tileset_1: 21300002
       farming-tileset_10: 21300020
@@ -4107,8 +4110,6 @@ TextureImporter:
       farming-tileset_25: 21300050
       farming-tileset_26: 21300052
       farming-tileset_27: 21300054
-      farming-tileset_28: 21300056
-      farming-tileset_29: 21300058
       farming-tileset_3: 21300006
       farming-tileset_30: 21300060
       farming-tileset_31: 21300062
@@ -4122,7 +4123,6 @@ TextureImporter:
       farming-tileset_39: 21300078
       farming-tileset_4: 21300008
       farming-tileset_40: 21300080
-      farming-tileset_41: 21300082
       farming-tileset_42: 21300084
       farming-tileset_43: 21300086
       farming-tileset_44: 21300088
